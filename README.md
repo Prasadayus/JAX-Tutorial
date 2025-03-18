@@ -36,8 +36,8 @@ pip install jax[cuda] -f https://storage.googleapis.com/jax-releases/jax_cuda_re
 ## **How to Use This Repository?**
 1. Clone the repository:
     ```bash
-      git clone https://github.com/yourusername/jax-tutorials.git
-     cd jax-tutorials
+      git clone https://github.com/Prasadayus/JAX-Tutorial.git
+     cd JAX-Tutorial
      ```
 2. Explore different JAX notebook tutorials
 3. Run the Jupyter Notebook or Python scripts to experiment with JAX.
@@ -68,7 +68,6 @@ Want to contribute? Feel free to submit a **Pull Request (PR)** with:
 
 Let's build an amazing JAX learning resource together! 🎉  
 
-Let's build an awesome JAX learning resource together! 🎉
 
 
 
