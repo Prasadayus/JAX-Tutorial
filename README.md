@@ -34,33 +34,39 @@ For GPU support, install JAX with CUDA:
 pip install jax[cuda] -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 ```
 ## **How to Use This Repository?**
- Markup : 1. Clone the repository:
-           ```bash
-             git clone https://github.com/yourusername/jax-tutorials.git
-            cd jax-tutorials
-            ```
-          2. Explore different JAX notebook tutorials 
-          3.Run the Jupyter Notebook or Python scripts to experiment with JAX.
+1. Clone the repository:
+    ```bash
+      git clone https://github.com/yourusername/jax-tutorials.git
+     cd jax-tutorials
+     ```
+2. Explore different JAX notebook tutorials 
+3.Run the Jupyter Notebook or Python scripts to experiment with JAX.
 
-## **Resources & References 📖**
-This repository is inspired by various tutorials and online resources. Huge credit to:
+## **📖 Resources & References**  
+This repository is inspired by various tutorials and online resources. **Huge credit to:**  
 
-Markup : * JAX Official Documentation
-          * Google JAX GitHub
-          *YouTube Tutorials:
-                * 🔗 Add YouTube Link 1]
-                *[🔗 Add YouTube Link 2]
-                *[🔗 Add YouTube Link 3]
-          *GitHub Repositories:
-                *[🔗 Add GitHub Link 1]
-                *[🔗 Add GitHub Link 2]
+### **JAX Official Documentation**  
+- [JAX ReadTheDocs](https://jax.readthedocs.io/en/latest/)  
+- [Google JAX GitHub](https://github.com/google/jax)  
 
-## **Contributing 🤝**
-Want to contribute? Feel free to submit a pull request with:
+### **📺 YouTube Tutorials**  
+- 🔗 [Add YouTube Link 1]  
+- 🔗 [Add YouTube Link 2]  
+- 🔗 [Add YouTube Link 3]  
 
-*New tutorials
-*Code improvements
-*Bug fixes
+### **📂 GitHub Repositories**  
+- 🔗 [Add GitHub Link 1]  
+- 🔗 [Add GitHub Link 2]  
+
+---
+
+## **🤝 Contributing**  
+Want to contribute? Feel free to submit a **Pull Request (PR)** with:  
+- 📌 New tutorials  
+- 🚀 Code improvements  
+- 🐛 Bug fixes  
+
+Let's build an amazing JAX learning resource together! 🎉  
 
 Let's build an awesome JAX learning resource together! 🎉
 
